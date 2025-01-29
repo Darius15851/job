@@ -1,0 +1,9 @@
+/project
+│
+├── index.html          // Главная страница
+├── catalog.html        // Каталог домов
+├── about.html          // О застройщике
+├── contacts.html       // Контакты
+├── thank-you.html      // Страница благодарности
+├── styles.css          // CSS-стили
+└── images/             // Папка с изображениями
